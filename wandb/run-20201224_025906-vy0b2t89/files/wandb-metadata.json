@@ -1,0 +1,30 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.9",
+    "heartbeatAt": "2020-12-24T10:59:08.043797",
+    "startedAt": "2020-12-24T10:59:06.987562",
+    "docker": null,
+    "gpu": "GeForce RTX 2070 SUPER",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--batch_size=32",
+        "--checkpoint_dir=./checkpoints/",
+        "--dataset_path=./data/lipread_20_mp4/",
+        "--dropout_p=0.15",
+        "--epochs=35",
+        "--feature_method=dlib",
+        "--feature_size=136",
+        "--hidden_size=256",
+        "--learning_rate=6.148255911516671e-05",
+        "--num_layers=4",
+        "--weight_decay=0"
+    ],
+    "state": "running",
+    "codePath": "train.py",
+    "program": "train.py",
+    "host": "Hope",
+    "username": "KrishKabra",
+    "executable": "c:\\users\\krishkabra\\anaconda3\\envs\\torch\\python.exe"
+}

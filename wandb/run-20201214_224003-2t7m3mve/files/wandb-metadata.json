@@ -1,0 +1,20 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.9",
+    "heartbeatAt": "2020-12-15T06:40:04.466985",
+    "startedAt": "2020-12-15T06:40:03.351079",
+    "docker": null,
+    "gpu": "GeForce RTX 2070 SUPER",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\KrishKabra\\AppData\\Roaming\\jupyter\\runtime\\kernel-efb9f82d-1d38-4fee-8e58-820611e7b2ca.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "Hope",
+    "username": "KrishKabra",
+    "executable": "C:\\Users\\KrishKabra\\Anaconda3\\envs\\torch\\python.exe"
+}

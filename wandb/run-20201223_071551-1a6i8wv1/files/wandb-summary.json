@@ -1,0 +1,1 @@
+{"iters": 293, "running_train_loss": 3.0321893506016293, "running_train_accuracy": 5.11968085106383, "_step": 31, "_runtime": 4509, "_timestamp": 1608741061, "epoch": 0, "train_loss": 3.0456431909324295, "val_loss": 2.9946015179157257, "train_acc": 4.963235294117647, "val_acc": 5.799278846153846}

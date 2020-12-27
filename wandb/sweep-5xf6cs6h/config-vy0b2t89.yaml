@@ -1,0 +1,24 @@
+wandb_version: 1
+
+batch_size:
+  value: 32
+checkpoint_dir:
+  value: ./checkpoints/
+dataset_path:
+  value: ./data/lipread_20_mp4/
+dropout_p:
+  value: 0.15
+epochs:
+  value: 35
+feature_method:
+  value: dlib
+feature_size:
+  value: 136
+hidden_size:
+  value: 256
+learning_rate:
+  value: 6.148255911516671e-05
+num_layers:
+  value: 4
+weight_decay:
+  value: 0
