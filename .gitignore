@@ -2,6 +2,10 @@
 data/ 
 checkpoints/
 wandb/
+*.dat 
+*.gz 
+*.pkl
+*.npy 
 
 ## Ignore VisualStudio temporary files
 
