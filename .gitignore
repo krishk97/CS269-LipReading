@@ -1,6 +1,7 @@
-## Ignore data and model checkpoints directory 
+## Ignore data, model checkpoints and wandb directory 
 data/ 
 checkpoints/
+wandb/
 
 ## Ignore VisualStudio temporary files
 
